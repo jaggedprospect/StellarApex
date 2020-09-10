@@ -28,4 +28,8 @@ Use the button labeled **Continue** in the bottom-left corner to advance dialogu
 **A,D** or **Left,Right** keys - walking <br>
 **W** or **Up** keys - jump (hitting twice consecutively will allow double jump if **Boost Boots** have been acquired) <br>
 **S** or **Down** keys - crouching <br>
-**Space** - fire weapon (can be pressed while in air)
+**Space** - fire weapon (can be pressed while in air) <br>
+**Esc** - pause game
+
+# Author's Note
+I hope to eventually continue work on this game, but it is not a priority at the moment. If you have any interest in contributing to/collaboriting on this project, feel free to contact me! In the meantime, thank you for taking a look!
