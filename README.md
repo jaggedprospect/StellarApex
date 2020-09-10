@@ -5,11 +5,12 @@ A 2D game developed in Unity using C# for Game Design. **NOTE:** This game is in
 ### Windows
 Download the folder named **StellarApexFiles**. <br>
 Extract the contents of the folder and look for the application named **StellerApex(ver. 2.0)**. <br>
-Double-click and play! <br><br>
+Double-click and play!
 
 ### MacOS
 Download the folder named **StellarApexFiles_MacOS**. <br>
-Extract the contents of the folder and look for the application named **
+Extract the contents of the folder. There should be a single application named **StellarApexFiles_MacOS** or **StellarApexFiles_MacOS.app**. <br>
+Double-click and play!
 
 ### Linux (Ubuntu)
 Download the folder named **StellarApexFiles_Linux**. <br>
